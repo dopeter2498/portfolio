@@ -1,0 +1,20 @@
+* {
+	font-family: 'Fantasque Sans Mono', monospace;
+}
+.header {
+	text-align: center;
+}
+.description {
+  margin-left: 190px;
+  margin-right: 190px;
+	text-align: center;
+  overflow: hidden;
+}
+.navbar {
+	padding: 5px;
+	display: flex;
+}
+.navButton {
+	padding: 5px;
+}
+
